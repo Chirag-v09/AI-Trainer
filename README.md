@@ -1,12 +1,10 @@
 # AI-Trainer
 
-##
-
 ![Output sample](https://github.com/Chirag-v09/AI-Trainer/blob/main/AITrainer.gif)
 
 ##
 
-## SampleImages
+## Sample Images
 
 <img src="up.JPG">
 
