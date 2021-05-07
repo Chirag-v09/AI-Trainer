@@ -1,7 +1,7 @@
 # AI-Trainer
 AI-Trainer
 
-AITrainer.avi
+![Output sample](AITrainer)
 
 <img src="up.JPG">
 
