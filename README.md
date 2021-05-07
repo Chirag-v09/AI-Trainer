@@ -1,2 +1,2 @@
-# AI--Trainer
-AI- Trainer
+# AI-Trainer
+AI-Trainer
